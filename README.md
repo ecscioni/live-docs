@@ -38,3 +38,14 @@ This is a real-time collaborative document editing web application built with mo
 ├── .env.local            # Environment variables
 └── README.md             # You're here!
 
+## ⚠️ Legal & Privacy Notice
+This project is developed strictly for educational and non-commercial use as part of a university assignment. It integrates external APIs and libraries that may be subject to their own terms of service and license agreements.
+I do not hold the rights to redistribute or host this application publicly. It is intended only for academic review and portfolio demonstration purposes. Please contact me directly for more information if necessary.
+
+## 📌 Status
+## 🧪 Complete – The application is functional locally and has been tested with multiple sessions. However, deployment, analytics, and monitoring tools like Vercel or Sentry were intentionally omitted to stay within project scope and avoid unnecessary integrations for academic evaluation.⚠️ Legal & Privacy Notice
+This project is developed strictly for educational and non-commercial use as part of a university assignment. It integrates external APIs and libraries that may be subject to their own terms of service and license agreements.
+I do not hold the rights to redistribute or host this application publicly. It is intended only for academic review and portfolio demonstration purposes. Please contact me directly for more information if necessary.
+
+## 📌 Status
+## 🧪 Complete – The application is functional locally and has been tested with multiple sessions. However, deployment, analytics, and monitoring tools like Vercel or Sentry were intentionally omitted to stay within project scope and avoid unnecessary integrations for academic evaluation.
